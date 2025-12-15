@@ -1,0 +1,13 @@
+{
+  "name": "agro-sacas",
+  "version": "1.0.0",
+  "description": "API para colheita e venda de feijão e milho por saca",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
